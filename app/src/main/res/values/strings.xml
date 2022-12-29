@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Countries Name And Desc</string>
+    <string name="country">Country</string>
+    <string name="detail">Detail</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="about_us_desc">NAMA : EDWIN LIONA JAYA\nNIM  : 10121154\nKELAS : IF4</string>
+</resources>
